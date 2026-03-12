@@ -4,7 +4,7 @@
 An AI-powered multi-agent market research application built with CrewAI, Groq, and Streamlit. Enter any company name and four specialized AI agents will research it and generate a comprehensive professional market research report.
 
 ## Live Demo
-[Click here to try the app]() ← We will add this link after Streamlit deployment
+[Click here to try the app] https://market-research-crew.streamlit.app/ ← We will add this link after Streamlit deployment
 
 ## What It Does
 
